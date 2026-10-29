@@ -13,4 +13,4 @@ for i in range(5) :
 
 [파이썬 공식문서](https://docs.python.org/ko/3/, "파이썬 공식문서 입니다")
 
-
+![프로필](치와와.jpg)
